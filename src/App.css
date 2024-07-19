@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Nanum+Myeongjo&display=swap');
+
+#root{
+    background-color: #0e0e16;
+    height : 100%;
+    font-family: 'Albert Sans', serif;
+    font-weight: 300;
+}
+.splide{
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 100;
+    font-style: normal;
+    font-smoothing: antialiased;
+    vertical-align: baseline;
+}
+h3{
+    font-family: 'Albert Sans', serif;
+    font-weight: 400;
+    color : grey;
+    margin-bottom : 25px;
+}

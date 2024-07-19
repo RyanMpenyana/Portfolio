@@ -1,0 +1,11 @@
+Model Information:
+* title:	Male Avatar
+* source:	https://sketchfab.com/3d-models/male-avatar-72164207fe884fd285a03779987d0509
+* author:	drndica54 (https://sketchfab.com/drndica54)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Male Avatar" (https://sketchfab.com/3d-models/male-avatar-72164207fe884fd285a03779987d0509) by drndica54 (https://sketchfab.com/drndica54) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
