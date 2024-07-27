@@ -6,6 +6,7 @@
     height : 100%;
     font-family: 'Albert Sans', serif;
     font-weight: 300;
+    user-select: none;
 }
 .splide{
     font-family: 'Nanum Myeongjo', serif;

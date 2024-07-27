@@ -30,11 +30,13 @@ export const Header = styled.h4`
     }
 `   
 export const Card = styled.div`
-    background: ${props => props.$bgColor ? props.$bgColor : 'linear-gradient(rgba(88, 98, 206, .3), #1e2142 , #0e0e16,  #0e0e16 )'};
+    background: ${props => props.$bgColor ? props.$bgColor : 'linear-gradient(rgba(88, 98, 206, .3), #1e2142 , #0e0e16,  rgb(0 0 0 / 40%) )'};
     display: flex;
     flex-wrap : wrap;
     border-radius : 25px; 
     backdrop-filter : blur(10px);
     border : 1px solid #1E232E;
-
+`
+export const FlexDiv = styled.div`
+    display :flex;
 `
