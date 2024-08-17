@@ -31,8 +31,9 @@ const VideoContainer = styled.video`
     border-left : 1px solid grey;
     border-right : 1px solid grey;
     outline : none;
-    height : 620px;
+    max-height : 620px;
     width : 100%;
+
 `
 const Landing = () => {
   return (
@@ -58,7 +59,7 @@ const Landing = () => {
       </LandingContent>
       <Center>
 
-          <VideoContainer src={Tabulio} preload="auto" playsInline autoPlay={true} loop={true}></VideoContainer>
+          <VideoContainer style={{objectFit: 'cover'}} src={Tabulio} preload="auto" playsInline autoPlay={true} loop={true}></VideoContainer>
       </Center>
     </>
   );
