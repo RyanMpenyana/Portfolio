@@ -13,7 +13,7 @@ export const ButtonCta = styled.button`
     border-radius : 30px;
     outline : none;
     border : none;
-    background-color : #4f81ff;
+    background-color : #5534F7;
     color : white;
 `
 export const Header = styled.h4`
@@ -28,15 +28,21 @@ export const Header = styled.h4`
         -webkit-text-fill-color: transparent;
         background-position : center;
     }
+    @media screen and (max-width : 500px){
+        font-size : 30px;
+        width : 100%;
+    }
 `   
-export const Card = styled.div`
+export const Card = styled.span`
     background: ${props => props.$bgColor ? props.$bgColor : 'linear-gradient(rgba(88, 98, 206, .3), #1e2142 , #0e0e16,  rgb(0 0 0 / 40%) )'};
     display: flex;
     flex-wrap : wrap;
     border-radius : 25px; 
     backdrop-filter : blur(10px);
-    border : 1px solid #1E232E;
+    border : ${props =>  props.$border ? '1px solid #1E232E' : 'none'};
 `
 export const FlexDiv = styled.div`
     display :flex;
+    outline : none;
+    justify-content : center;
 `

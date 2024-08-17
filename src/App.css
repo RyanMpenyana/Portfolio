@@ -21,3 +21,14 @@ h3{
     color : grey;
     margin-bottom : 25px;
 }
+h2{
+    color: #D8D9D7;
+    font-weight: 400;
+}
+p{
+    color : grey;
+}
+.cursor{
+    cursor: progress;
+}
+
