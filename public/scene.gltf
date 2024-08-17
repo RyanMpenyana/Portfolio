@@ -1,5 +1,5 @@
 {
-  "accessors": [
+  "accessors" : [
     {
       "bufferView": 3,
       "componentType": 5126,
@@ -953,7 +953,7 @@
       "type": "VEC4"
     }
   ],
-  "asset": {
+  "asset" :{
     "extras": {
       "author": "drndica54 (https://sketchfab.com/drndica54)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",

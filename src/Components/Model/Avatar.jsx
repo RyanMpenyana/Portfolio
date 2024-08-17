@@ -9,7 +9,7 @@ const Avatar = () => {
     useFrame((delta, state) => {
         ref.current.rotation.y += 0.022
     })
-    const gltf = useLoader(GLTFLoader, "../../../public/scene.gltf")
+    const gltf = useLoader(GLTFLoader, "/scene.gltf")
     return (
         <>
             <primitive ref={ref} position={[0, -3, 0]} object={gltf.scene} scale={2.7} />

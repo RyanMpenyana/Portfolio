@@ -110,42 +110,42 @@ const About = () => {
           }}
         >
           <SplideSlide>
-            <h4 style={{ fontSize: "4.5rem", color: "white" }}>
+            <h4 style={{ fontSize: "5rem", color: "white" }}>
               Frontend Developer
             </h4>
           </SplideSlide>
           <SplideSlide>
-            <h4 style={{ fontSize: "4.5rem", color: "white" }}>
+            <h4 style={{ fontSize: "5rem", color: "white" }}>
               Software Engineer
             </h4>
           </SplideSlide>
           <SplideSlide>
-            <h4 style={{ fontSize: "4.5rem", color: "white" }}>
+            <h4 style={{ fontSize: "5rem", color: "white" }}>
               Frontend Developer
             </h4>
           </SplideSlide>
           <SplideSlide>
-            <h4 style={{ fontSize: "4.5rem", color: "white" }}>
+            <h4 style={{ fontSize: "5rem", color: "white" }}>
               Software Engineer
             </h4>
           </SplideSlide>
           <SplideSlide>
-            <h4 style={{ fontSize: "4.5rem", color: "white" }}>
+            <h4 style={{ fontSize: "5rem", color: "white" }}>
               Frontend Developer
             </h4>
           </SplideSlide>
           <SplideSlide>
-            <h4 style={{ fontSize: "4.5rem", color: "white" }}>
+            <h4 style={{ fontSize: "5rem", color: "white" }}>
               Software Engineer
             </h4>
           </SplideSlide>
           <SplideSlide>
-            <h4 style={{ fontSize: "4.5rem", color: "white" }}>
+            <h4 style={{ fontSize: "5rem", color: "white" }}>
               Frontend Developer
             </h4>
           </SplideSlide>
           <SplideSlide>
-            <h4 style={{ fontSize: "4.5rem", color: "white" }}>
+            <h4 style={{ fontSize: "5rem", color: "white" }}>
               Software Engineer
             </h4>
           </SplideSlide>
